@@ -1,6 +1,7 @@
 .vscode/
-list.txt
-ps
-ex.cpp
+debug.dSYM/
 .DS_Store
 tempCodeRunnerFile.cpp
+list.txt
+ps
+debug
